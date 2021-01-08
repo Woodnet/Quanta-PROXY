@@ -14,4 +14,4 @@ Hier kannst du verschiedene Einstellungen des Proxy vornehmen. Beispiel: Ändern
 
 ![Daten-Library_bilder-erklärung](/Bilder-Github/änderung_vornehmen_ip_blocker.PNG)
 
-Hier kannst du einen IP-Blocker, bzw. Filter, einbauen, wobei dieser nur bestimmte IP-Adressen annimmt.
+Hier kannst du z.B. einen IP-Blocker, bzw. Filter, einbauen, wobei dieser nur bestimmte IP-Adressen annimmt.
