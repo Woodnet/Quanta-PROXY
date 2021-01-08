@@ -150,10 +150,11 @@ def get_addr():
 
 		else:
 			print("Please use an available Port! Example: 5555")
+	return (__ip,__port)
 
 os.system("cls") #Windows -default
 if __name__ == '__main__':
-	(IP,PORT) = get_addr()
+	(__ip,__port) = get_addr()
 	buff_size = library['proxy']['buffer_size']
 	library['proxy']['PORT'] = int(__port)
 	proxy_adresse = (library['proxy']['IP'],library['proxy']['PORT'])
