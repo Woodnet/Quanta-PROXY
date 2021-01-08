@@ -1,5 +1,5 @@
 # HTTP-Proxy
-The Quanta-HTTP_Proxy
+Der Quannta-HTTP-Proxy-Server. Programmiert von Pulsar mit Python.
 # Lokaler HTTP-Proxy-Server
 Das Python-Script erstellt einen Socket-Server, welcher nur via einen bestimmten Port erreichbar ist. Der Port kann innerhalb des Programms variiert werden.
 # Benutzung -Browser (Firefox) 
