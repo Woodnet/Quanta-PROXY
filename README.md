@@ -11,3 +11,4 @@ Das Python-Script erstellt einen Socket-Server, welcher nur via einen bestimmten
 ![Daten-Library_bilder-erklärung](/Bilder-Github/daten-library.PNG)
 
 Hier kannst du verschiedene Einstellungen des Proxy vornehmen. Beispiel: Ändern der maximalen Verbindungen, die hergestellt werden dürfen.
+
