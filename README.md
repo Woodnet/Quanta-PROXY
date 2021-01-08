@@ -10,7 +10,7 @@ So kannst du deinen Browser für den HTTP-Proxy einstellen:
 
 ![verbindungseinstellungen_FIREFOX_PROXY](/Bilder-Github/verbindungseinstellungen_firefox_PROXY.PNG)
   
-    Der Port muss dem endsprechen, welchen du beim Programmstart angegeben hast.
+    Der Port muss den Wert entsprechen, welchen du beim Programmstart angegeben hast.
 # Benutzerdefinierte Optionen
 
 ![Daten-Library_bilder-erklärung](/Bilder-Github/daten-library.PNG)
