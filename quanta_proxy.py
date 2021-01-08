@@ -157,7 +157,7 @@ if __name__ == '__main__':
 	(__ip,__port) = get_addr()
 	buff_size = library['proxy']['buffer_size']
 	library['proxy']['PORT'] = int(__port)
-	library['proxy']['IP'] = int(__ip)
+	library['proxy']['IP'] = __ip
 	proxy_adresse = (library['proxy']['IP'],library['proxy']['PORT'])
 	proxy = socket.socket(socket.AF_INET,socket.SOCK_STREAM) #TCP
 	__proxy = quanta_proxy(proxy_adresse,proxy)
