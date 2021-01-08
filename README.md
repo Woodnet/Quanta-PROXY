@@ -6,8 +6,8 @@ Das Python-Script erstellt einen Socket-Server, welcher nur via einen bestimmten
   
     1.0.0
 
-# Benutzung
+# Benutzung, bzw. benutzerdefinierte Optionen
 
-![Test Image 5](/Bilder-Github/daten-library.PNG)
+![Daten-Library_bilder-erklärung](/Bilder-Github/daten-library.PNG)
 
-
+Hier kannst du verschiedene Einstellungen des Proxy vornehmen. Beispiel: Ändern der maximalen Verbindungen, die hergestellt werden dürfen.
