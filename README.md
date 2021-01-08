@@ -8,4 +8,6 @@ Das Python-Script erstellt einen Socket-Server, welcher nur via einen bestimmten
 
 # Benutzung
 
-![plot](./Bilder-Github/daten-library.png)
+![Test Image 5](/Bilder-Github/daten-library.PNG)
+
+
