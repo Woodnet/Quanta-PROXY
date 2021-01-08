@@ -12,3 +12,4 @@ Das Python-Script erstellt einen Socket-Server, welcher nur via einen bestimmten
 
 Hier kannst du verschiedene Einstellungen des Proxy vornehmen. Beispiel: Ändern der maximalen Verbindungen, die hergestellt werden dürfen.
 
+![Daten-Library_bilder-erklärung](/Bilder-Github/änderung_vornehmen_ip_blocker.PNG)
